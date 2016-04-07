@@ -1,0 +1,13 @@
+http://stackoverflow.com/questions/15493056/min-heapify-method-min-heap-algorithm
+
+http://clrs.skanev.com/06/02/02.html
+
+http://ideone.com/Owpwuq
+
+http://code.geeksforgeeks.org/YfGsgN
+
+https://github.com/dharam3/DS/blob/master/src/com/dk/greedy/HuffmanCoding.java
+
+HINTS :
+
+for tokens : StringTokenizer tokenizer = new StringTokenizer(sentence, " \t\n\r\f,.:;?![]'");
